@@ -19,7 +19,7 @@ Siga as instruções abaixo para executar a API usando o Docker:
 
 1. Certifique-se de ter o Docker instalado e configurado em sua máquina.
 2.  Faça o clone deste repositório para o seu ambiente local.
-3.Abra um terminal e navegue até o diretório raiz do projeto.
+3.  Abra um terminal e navegue até o diretório raiz do projeto.
 4. Execute o seguinte comando para criar a imagem Docker:
 
 ```bash
