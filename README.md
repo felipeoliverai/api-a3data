@@ -1,7 +1,7 @@
 ## api-a3data
 
 
-Solucao do desafio de cientista de dados - API  
+Solução do desafio de cientista de dados - API  
 
 <br>
 
