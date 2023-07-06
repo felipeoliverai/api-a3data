@@ -35,7 +35,8 @@ docker run -p 5000:5000 api-a3data
 6. você pode fazer uma requisição para a API utilizando o navegador, o cURL ou o Postman. Por exemplo, abra o navegador e acesse o seguinte URL:
 
 ```bash 
-http://localhost:5000/api_ibge?uf=SP&info=microrregioes ```
+http://localhost:5000/api_ibge?uf=SP&info=microrregioes
+```
 
 
 <br>
@@ -78,6 +79,8 @@ retorno:
   ]
 }
 ```
+
+
 <br>
 <br>
 
