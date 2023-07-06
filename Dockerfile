@@ -11,6 +11,9 @@ COPY . /app
 RUN pip install --upgrade pip 
 RUN pip install -r requirements.txt
 
+# definir fuso horário
+RUN ln -fs /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime
+
 # variável de ambiente para o caminho do arquivo de logs
 ENV LOG_FILE_PATH /app/api_logs.log
 
