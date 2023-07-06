@@ -1,2 +1,13 @@
-# api-a3data
-API do case A3Data 
+## api-a3data
+
+
+Solucao do desafio de cientista de dados - API  
+
+<br>
+
+
+![Solucao](img/desenho_solucao.png)
+
+
+<br>
+<hr>
