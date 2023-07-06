@@ -6,7 +6,7 @@ from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
-# Configuração do logger
+# configuração do logger
 logging.basicConfig(filename='api_logs.log', level=logging.INFO)
 
 @app.route('/api_ibge', methods=['GET'])
