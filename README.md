@@ -96,4 +96,4 @@ Notas
 * O fuso horário é definido como "America/Sao_Paulo" dentro do contêiner para garantir a exibição correta do horário nos logs.
 
 <br>
-
+<hr>
